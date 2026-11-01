@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xallio69.github.io/lawmitra-legal/sitemap.xml
